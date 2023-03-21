@@ -12,3 +12,6 @@
 
 ### :bear: Mysql
 [MYSQL 중복 제거 하고 테이블 병합하는 방법](https://github.com/youngme92/FrontEnd_Growing/issues/4)
+
+### :chicken: Electron
+[Electron 에서 소스 코드 static 파일을 클라이언트 PC에 저장하기](https://github.com/youngme92/FrontEnd_Growing/issues/6)
