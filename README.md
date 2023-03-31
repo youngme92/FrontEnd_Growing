@@ -3,6 +3,8 @@
 ### :cat:  vue
 [vue2에서 vue-chartjs 사용하기](https://github.com/youngme92/FrontEnd_Growing/issues/1)
 
+[vue2 code busting 사용하기](https://github.com/youngme92/FrontEnd_Growing/issues/7)
+
 ### :wolf: javascript
 [시작날짜 와 종료날짜 사이 날짜 구하는 함수 (feat. momentjs)](https://github.com/youngme92/FrontEnd_Growing/issues/2)
 
