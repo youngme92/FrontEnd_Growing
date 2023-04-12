@@ -20,3 +20,6 @@
 
 ### :chicken: Electron
 [Electron 에서 소스 코드 static 파일을 클라이언트 PC에 저장하기](https://github.com/youngme92/FrontEnd_Growing/issues/6)
+
+### :camel: jotai
+[상태관리 라이브러리 jotai를 왜 쓸까](https://github.com/youngme92/FrontEnd_Growing/issues/9)
