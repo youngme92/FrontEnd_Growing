@@ -1,5 +1,9 @@
 # :sunglasses: Today I Learned(TIL) Wiki
 
+### :eagle: NextJs
+
+[nextJs useEffect 두번 렌더링되는 현상](https://github.com/youngme92/FrontEnd_Growing/issues/11)
+
 ### :dog: React
 [React-Query 에 대하여](https://github.com/youngme92/FrontEnd_Growing/issues/10)
 
