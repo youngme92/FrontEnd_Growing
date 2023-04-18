@@ -4,6 +4,8 @@
 
 [nextJs useEffect 두번 렌더링되는 현상](https://github.com/youngme92/FrontEnd_Growing/issues/11)
 
+[nextJs 로 쉽게 블로그 개발하기](https://github.com/youngme92/FrontEnd_Growing/issues/12)
+
 ### :dog: React
 [React-Query 에 대하여](https://github.com/youngme92/FrontEnd_Growing/issues/10)
 
