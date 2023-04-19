@@ -6,6 +6,8 @@
 
 [nextJs 로 쉽게 블로그 개발하기](https://github.com/youngme92/FrontEnd_Growing/issues/12)
 
+[nextJs CSP (Content-Security-Policy) 간단하게 설정하기](https://github.com/youngme92/FrontEnd_Growing/issues/13)
+
 ### :dog: React
 [React-Query 에 대하여](https://github.com/youngme92/FrontEnd_Growing/issues/10)
 
