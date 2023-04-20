@@ -34,3 +34,6 @@
 
 ### :camel: jotai
 [상태관리 라이브러리 jotai를 왜 쓸까](https://github.com/youngme92/FrontEnd_Growing/issues/9)
+
+### :flamingo: PlanetScale
+[PlanetScale 로 serverless DB (MySQL) 구축하기](https://github.com/youngme92/FrontEnd_Growing/issues/14)
