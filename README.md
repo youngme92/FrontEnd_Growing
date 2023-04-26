@@ -25,6 +25,8 @@
 
 [[자료구조] javascript 배열](https://github.com/youngme92/FrontEnd_Growing/issues/16)
 
+[[자료구조] javascript 연결리스트](https://github.com/youngme92/FrontEnd_Growing/issues/17)
+
 ### :bear: Mysql
 [MYSQL 중복 제거 하고 테이블 병합하는 방법](https://github.com/youngme92/FrontEnd_Growing/issues/4)
 
