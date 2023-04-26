@@ -23,6 +23,8 @@
 
 [javascript 9가지 코드 트릭](https://github.com/youngme92/FrontEnd_Growing/issues/5)
 
+[[자료구조] javascript 배열](https://github.com/youngme92/FrontEnd_Growing/issues/16)
+
 ### :bear: Mysql
 [MYSQL 중복 제거 하고 테이블 병합하는 방법](https://github.com/youngme92/FrontEnd_Growing/issues/4)
 
