@@ -53,3 +53,6 @@
 [PlanetScale 로 serverless DB (MySQL) 구축하기](https://github.com/youngme92/FrontEnd_Growing/issues/14)
 
 [PlanetScale CLI로 간단하게 DB 생성 및 수정하기](https://github.com/youngme92/FrontEnd_Growing/issues/15)
+
+### 🎸 기타
+[웹 접근성에 대해서](https://github.com/youngme92/FrontEnd_Growing/issues/23)
