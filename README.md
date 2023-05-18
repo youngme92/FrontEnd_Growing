@@ -39,6 +39,8 @@
 
 [[자료구조] javascript 힙 (Heap)](https://github.com/youngme92/FrontEnd_Growing/issues/25)
 
+[[자료구조] javascript 트라이 (Trie)](https://github.com/youngme92/FrontEnd_Growing/issues/26)
+
 ### :bear: Mysql
 [MYSQL 중복 제거 하고 테이블 병합하는 방법](https://github.com/youngme92/FrontEnd_Growing/issues/4)
 
