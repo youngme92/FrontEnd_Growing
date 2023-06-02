@@ -23,6 +23,8 @@
 
 [javascript 9가지 코드 트릭](https://github.com/youngme92/FrontEnd_Growing/issues/5)
 
+[ES2023 추가된 자바스크립트 기능들](https://github.com/youngme92/FrontEnd_Growing/issues/27)
+
 [[자료구조] javascript 배열](https://github.com/youngme92/FrontEnd_Growing/issues/16)
 
 [[자료구조] javascript 연결리스트](https://github.com/youngme92/FrontEnd_Growing/issues/17)
